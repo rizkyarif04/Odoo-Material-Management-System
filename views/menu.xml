@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_material_root"
+        name="Material Management"
+        sequence="0"/> 
+
+        <menuitem id="menu_register"
+            name="Register"
+            parent = "menu_material_root"
+            sequence="0"/>
+</odoo>
